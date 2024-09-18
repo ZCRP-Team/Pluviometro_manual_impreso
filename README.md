@@ -1,0 +1,1 @@
+# Pluviometro_manual_impreso
